@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "SofiaSansExtraCondensed-Black" ;
+    src: url("../Sofia_fonts/static/SofiaSansExtraCondensed-Black.ttf") format("truetype");
+    font-weight: bold ;
+    font-style: bold;
+}
+
+a{
+    font-family: "SofiaSansExtraCondensed-Black" ;
+}
